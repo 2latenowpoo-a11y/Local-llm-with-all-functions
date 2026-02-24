@@ -1,0 +1,108 @@
+Conduct an exhaustive, multi-branch, real-time online research process to identify all verified, functional AI stack projects that enable deployment of a local large language model on a Windows 11 Home Edition laptop with a modern CPU and 64 GB RAM (no GPU required).
+
+Do not limit the search to any specific website, platform, repository, or brand. Search across all categories of project-hosting platforms, developer communities, discussion forums, documentation archives, AI stack guides, model deployment tutorials, and technical publications. Do not stop after finding initial matches. Continue branching outward from each discovery to uncover additional related implementations.
+
+Search by functional capability and content — not just project names or titles — since some successful implementations may be indirectly labeled or embedded inside broader toolkits.
+
+Target model size:
+Roughly 7B parameter class (or slightly larger if CPU+64GB RAM feasible), optimized for CPU inference with room for expansion if appropriate.
+
+The solution must be a combination stack if necessary (multiple tools, extensions, plugins, services, etc.). It does NOT need to be a single monolithic application. many applications such as web browsers have extensions that do screen sharing and rag there are other applications in Windows that have plugins that can serve the functions required so do not limit yourself by your base knowledge but understand that operating systems have many applications and these applications have sub applications and extensions and plugins that can function interactively with this project so do not place limits on your search criteria.
+
+A result qualifies as successful only if it meets ALL of the following minimum functional requirements:
+
+MINIMUM REQUIREMENTS (Lilly Core Functions):
+
+1. Retrieval-Augmented Generation (RAG)
+
+
+2. Persistent long-term memory across sessions
+
+
+3. Always-on or seamless voice interaction (live back-and-forth)
+
+
+4. Real-time interactive conversational loop
+
+
+5. Screen sharing or live screen streaming capability
+
+
+6. Real-time online research and fact verification
+
+
+7. Ability to create, modify, and maintain structured databases for datasets
+
+
+8. Browser interaction and application control (file creation, editing, automation)
+
+
+
+Additional features are irrelevant unless all minimum requirements are satisfied.
+
+System environment constraints:
+
+Fresh Windows 11 Home installation
+
+External 512GB NVMe drive dedicated exclusively to the AI system that was just plugged in and formatted as ntfs, L: label:Lilly.
+
+The AI’s file system, databases, memory stores, and model files must be designed and structured entirely by you with no propmpting the user for names or structure.  the L: is a freshly formatted external nvme 512gb, and all of it is for Lilly, so you will make all decisions and I will follow the instructions you say and paste the exact scripts that you provide with you making the decisions.
+
+The research result must include a fully defined file structure layout and naming convention
+
+No programming knowledge assumed
+
+Must be installable and operational within approximately 30–90 minutes with high-speed internet
+
+Must rely only on already published, verified, working projects
+
+
+Research Process Instructions:
+
+1. Gather the maximum number of verified successful stacks meeting minimum requirements.
+
+
+2. Confirm they are documented as functional by users or maintainers.
+
+
+3. Eliminate theoretical or incomplete projects.
+
+
+4. After collecting all qualifying solutions, rank them by:
+
+Fastest setup time
+
+Easiest installation process
+
+Lowest technical complexity
+
+Most step-by-step guidance available
+
+
+
+
+Final Output Requirements:
+
+Provide the top 5 fastest and easiest fully functional stacks.
+
+For each, provide:
+
+Overview of components used
+
+Why it satisfies all minimum requirements
+
+Estimated setup time
+
+Required downloads
+
+Complete step-by-step installation and configuration instructions
+
+Exact file structure layout for the external NVMe drive
+
+Any necessary system configuration steps
+
+
+
+Do not request clarification questions. Assume full authority to design the optimal structure based on existing verified projects.
+
+Continue searching until diminishing returns are clear and coverage is broad.

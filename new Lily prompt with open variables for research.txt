@@ -1,0 +1,63 @@
+the platform upon which this request will take place is a Lenovo l14 ThinkPad gen 1 laptop with a modern CPU and 64 GB RAM (no GPU required).  I can install either Ubuntu or Windows 11 home edition the choice is yours. the goal is to as quickly and as easily as possible install a local large language model around 7B or so in size so that it functions quite rapidly on my device with multimodal text image and video input capabilities.  it does not matter what operating system it does not matter what apps or what extensions or mCP servers or developers browsers with extensions for device control it doesn't matter there are thousands of endless apps and each have 100 possibilities to solve these few required items for the result you find to be a success if it can change at least these items and is fast and easy to install on the device I have listed. it does not matter what else is contained in the installation process just so long as the minimum requirements I am about to list our match and it functions on my device with high quality. 
+the laptop has a 750 GB internal hard disk drive which is slow but functional.  I have 40 or 50 external nvme drive the one I have set up now is a high-speed 512 GB external nvme that will plug in the a USB c high speed thunder Port I think it's caller.  its an External 512GB NVMe drive dedicated exclusively to the AI system that was just plugged in and formatted as ntfs, L: label:Lilly.
+
+The AI’s file system, databases, memory stores, and model files must be designed and structured entirely by you with no propmpting the user for names or structure.  the L: is a freshly formatted external nvme 512gb, and all of it is for Lilly, so you will make all decisions and I will follow the instructions you say and paste the exact scripts that you provide with you making the decisions.
+
+The research result must include a fully defined file structure layout and naming convention
+
+No programming knowledge assumed
+
+Must be installable and operational within approximately 30–90 minutes with high-speed internet
+
+Must rely only on already published, verified, working projects
+
+
+Research Process Instructions:
+
+1. Gather the maximum number of verified successful stacks meeting minimum requirements.
+
+
+2. Confirm they are documented as functional by users or maintainers.
+
+
+3. Eliminate theoretical or incomplete projects.
+
+
+4. After collecting all qualifying solutions, rank them by:
+
+Fastest setup time
+
+Easiest installation process
+
+Lowest technical complexity
+
+Most step-by-step guidance available
+
+
+
+
+Final Output Requirements:
+
+Provide the top 5 fastest and easiest fully functional stacks.
+
+For each, provide:
+
+Overview of components used
+
+Why it satisfies all minimum requirements
+
+Estimated setup time
+
+Required downloads
+
+Complete step-by-step installation and configuration instructions
+
+Exact file structure layout for the external NVMe drive
+
+Any necessary system configuration steps
+
+
+
+Do not request clarification questions. Assume full authority to design the optimal structure based on existing verified projects.
+
+Continue searching until diminishing returns are clear and coverage is broad.
